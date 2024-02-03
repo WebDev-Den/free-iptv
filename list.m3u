@@ -1,10 +1,14 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-id="100NEWS.ua"tvg-logo="https://i.imgur.com/bSXKdK5.png"group-title="Business;News":http-user-agent="",100% News (576p)
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 tvg-id="1Plus1.ua"tvg-logo="https://i.imgur.com/eJXfMh0.png"group-title="Undefined":http-user-agent="",1+1 (1080p)
+https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 #EXTINF:-1 tvg-id="Channel24.ua"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/24_Group_Ukraine_04.png/512px-24_Group_Ukraine_04.png"group-title="News":http-user-agent="",24 Канал (1080p)
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="100NEWS.ua"tvg-logo="https://i.imgur.com/bSXKdK5.png"group-title="Business;News":http-user-agent="",100% News (576p)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 tvg-id="AngelTVEurope.in"tvg-logo="https://i.imgur.com/qKLEGU7.png"group-title="Religious":http-user-agent="",Angel TV Europe (720p)
 https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angeleurope_all/playlist.m3u8
+#EXTINF:-1 tvg-id="BamBarBiaTV.ua"tvg-logo="https://i.imgur.com/zdRvy87.png"group-title="Travel":http-user-agent="",BamBarBia TV (720p) [Not 24/7]
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCNewsEurope.uk"tvg-logo="https://i.imgur.com/REuN9RR.png"group-title="News":http-user-agent="",BBC News (European feed) (1080p)
 http://livetv.ktv.zone/60/play.m3u8
 #EXTINF:-1 tvg-id="BlackSeaTV.ua"tvg-logo="https://i.imgur.com/D8YJzHV.png"group-title="General":http-user-agent="",Black Sea TV (432p)
@@ -13,32 +17,34 @@ https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8
 https://bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-id="BloombergTVEurope.uk"tvg-logo="https://i.imgur.com/OuogLHx.png"group-title="Business":http-user-agent="",Bloomberg TV Europe (720p)
 https://bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="Bolt.ua"tvg-logo="https://i.imgur.com/YdIHXOR.png"group-title="Movies;Series":http-user-agent="ExoPlayer2/2.37",Bolt
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o4/mtvhits/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel7Ukraine.ua"tvg-logo="https://i.imgur.com/9Ll0BIo.png"group-title="Undefined":http-user-agent="",Channel 7 Ukraine (720p)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us"tvg-logo="https://i.imgur.com/dfxefQw.png"group-title="News":http-user-agent="",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="DniproTV.ua"tvg-logo="https://i.imgur.com/mbPTVh1.png"group-title="General":http-user-agent="",DniproTV (1080p)
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNEurope.us"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png"group-title="Religious":http-user-agent="",EWTN Europe (720p) [Not 24/7]
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTNUkraine.ua"tvg-logo="https://i.imgur.com/nIPEpkB.png"group-title="Religious":http-user-agent="",EWTN Ukraine (1080p)
 https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ExtremeSportsChannel.nl"tvg-logo="https://i.imgur.com/m7IC01U.png"group-title="Sports":http-user-agent="ExoPlayer2/2.37",Extreme Sports
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://edge02.odtv.az/o4/extremesport/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"group-title="Lifestyle":http-user-agent="",Fashion TV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GIT.ua"tvg-logo="https://i.imgur.com/b5K5Uwh.png"group-title="Undefined":http-user-agent="",GIT (720p)
 https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1 tvg-id="GNCAmerica.ua"tvg-logo="https://gnctv.org/wp-content/uploads/2022/03/GNC-Blue-200x62.png"group-title="Religious":http-user-agent="",GNC America (1080p)
+https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc3/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="GNCEurope.ua"tvg-logo="https://gnctv.org/wp-content/uploads/2022/03/GNC-Blue-200x62.png"group-title="Religious":http-user-agent="",GNC Europe (1080p)
+https://live.cnl.in.ua/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="NTA.ua"tvg-logo="https://i.imgur.com/jGT6qY7.png"group-title="News":http-user-agent="",HTA (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCQdSS9GSBbtSqW3oNB39KTw.m3u8
+#EXTINF:-1 tvg-id="IUAtv.ua"tvg-logo="https://i.imgur.com/t1OABVZ.png"group-title="News":http-user-agent="",I-UA.tv (1080p)
+https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
 #EXTINF:-1 tvg-id="ICTV.ua"tvg-logo="https://i.imgur.com/97W1NOW.png"group-title="Undefined":http-user-agent="",ICTV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCa85JIfBxZgcrsd8Ar7Z9nw.m3u8
 #EXTINF:-1 tvg-id="IT3.ua"tvg-logo="https://i.imgur.com/8rNbbY7.png"group-title="News":http-user-agent="",IT-3 (720p)
 http://cdn10.live-tv.od.ua:8081/it3od/720p/playlist.m3u8
 #EXTINF:-1 tvg-id="ITV.ua"tvg-logo="https://i.imgur.com/NZdT9yJ.png"group-title="General":http-user-agent="",ITV HD
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="IUAtv.ua"tvg-logo="https://i.imgur.com/t1OABVZ.png"group-title="News":http-user-agent="",I-UA.tv (1080p)
-https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
 #EXTINF:-1 tvg-id="IzmailTV.ua"tvg-logo="https://i.imgur.com/CxsUpGz.png"group-title="Undefined":http-user-agent="",Izmail TV (384p)
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
 #EXTINF:-1 tvg-id="M2.ua"tvg-logo="https://i.imgur.com/AfcBWCg.png"group-title="Music":http-user-agent="",M2 (540p)
@@ -49,6 +55,8 @@ https://ythls.armelin.one/channel/UC2XLtyLSZ3XSAxvULZoV23g.m3u8
 https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RenomeTV.ua"tvg-logo="https://i.imgur.com/qL1uNlW.png"group-title="Undefined":http-user-agent="",Renome (576p)
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 tvg-id="Skrypinua.ua"tvg-logo="https://i.imgur.com/XtG3rfj.png"group-title="Undefined":http-user-agent="",Skrypin.ua (1080p) [Not 24/7]
+https://open-cdn.lanet.tv/play/skrypin.m3u8
 #EXTINF:-1 tvg-id="SonataTV.ua"tvg-logo="https://i.imgur.com/0IZ6pgN.png"group-title="Undefined":http-user-agent="",Sonata TV (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCU7r0DqO0cGc5qeHXrXufYA.m3u8
 #EXTINF:-1 tvg-id="TSN.ua"tvg-logo="https://i.imgur.com/odCNBZP.png"group-title="News":http-user-agent="",TCH (1080p) [Not 24/7]
@@ -59,10 +67,12 @@ https://stream.rai.ua/rai/stream.m3u8
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 #EXTINF:-1 tvg-id="TRKKrug.ua"tvg-logo="https://i.imgur.com/CCxEt0w.png"group-title="Undefined":http-user-agent="",TRK Krug (576p)
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
-#EXTINF:-1 tvg-id="Rivne1.ua"tvg-logo="https://i.imgur.com/ytz7jYV.png"group-title="General":http-user-agent="",TV Rivne 1 (720p)
-https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr"tvg-logo="https://i.imgur.com/rPAbMSu.png"group-title="General":http-user-agent="",TV5Monde Europe (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
 #EXTINF:-1 tvg-id="TV7Plus.ua"tvg-logo="https://i.imgur.com/PcTDZ8e.png"group-title="Undefined":http-user-agent="",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1 tvg-id="Rivne1.ua"tvg-logo="https://i.imgur.com/ytz7jYV.png"group-title="General":http-user-agent="",TV Rivne 1 (720p)
+https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="UkraineWorldNews.ua"tvg-logo="https://i.imgur.com/flsEsGo.png"group-title="News":http-user-agent="",Ukraine World News (1440p) [Not 24/7]
 https://ythls.armelin.one/channel/UCGRhTiknVzrL-Rfy4N1tPTA.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua"tvg-logo="https://i.imgur.com/io0WAkA.png"group-title="Movies":http-user-agent="",Viasat Kino (576p)
@@ -71,16 +81,22 @@ http://89.254.128.5:22280/viasat_kino/index.m3u8
 http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 #EXTINF:-1 tvg-id="Z.ua"tvg-logo="https://i.imgur.com/E5aV5aa.png"group-title="Undefined":http-user-agent="",Z (Запорожье) (1080p)
 https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1 tvg-id="ApostropheTV.ua"tvg-logo="https://i.imgur.com/LCXvbQX.png"group-title="Undefined":http-user-agent="",Апостроф TV (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UC0lnIB2qcArjFJPtq79WGZA.m3u8
 #EXTINF:-1 tvg-id="BaltaTV.ua"tvg-logo="https://cdn.teleon.tv/logo/balta-tv-ua.png"group-title="General":http-user-agent="",Балта ТВ (768p)
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1 tvg-id="Glas.ua"tvg-logo="https://i.imgur.com/l5FEP9w.png"group-title="Religious":http-user-agent="",Глас (576p)
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 tvg-id="LanetTV.ua"tvg-logo="https://i.imgur.com/Jdy4SoG.png"group-title="Undefined":http-user-agent="",Ланет.TV (486p)
+https://kiev1-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:-1 tvg-id="MyUkrainaTV.ua"tvg-logo="https://i.imgur.com/OD84Oga.png"group-title="News":http-user-agent="",Ми-Україна (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCEduOt4TK8TtOaznB45TrhA.m3u8
 #EXTINF:-1 tvg-id="HopeChannelUkraine.ua"tvg-logo="https://i.imgur.com/o24iAX2.png"group-title="Religious":http-user-agent="",Надия/Новый канал (576p) [Not 24/7]
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
 #EXTINF:-1 tvg-id="CurrentTimeTV.cz"tvg-logo="https://i.imgur.com/hKo8ApU.png"group-title="News":http-user-agent="",Настоящее Время (720p)
 http://81.94.196.204/tsstreamer/CurrentTime_HD.ts
+#EXTINF:-1 tvg-id="NTVMir.ru"tvg-logo="https://i.imgur.com/pUcV46F.png"group-title="Undefined":http-user-agent="",НТВ Мир
+http://stream02.vnet.am/HTB/mono.m3u8
 #EXTINF:-1 tvg-id="NTKTV.ua"tvg-logo="https://www.ntktv.ua/bitrix/templates/ntk_copy/images/logo.png"group-title="General":http-user-agent="",НТК ТВ (1080p) [Not 24/7]
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
 #EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua"tvg-logo="https://i.imgur.com/jFP50g2.png"group-title="Undefined":http-user-agent="",Общественное Независимое Телевидение (576p)
@@ -105,3 +121,6 @@ http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
 https://ott.columbus.te.ua/ternopil1/index.m3u8
 #EXTINF:-1 tvg-id="CENTR.ua"tvg-logo="https://i.imgur.com/5fxFaup.png"group-title="News":http-user-agent="",Центр (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8
+#EXTINF:-1 tvg-id="PravdaTUT.ua"tvg-logo="https://i.imgur.com/gvgFoFB.png"group-title="Undefined":http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0",ПравдаТУТ (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
+https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
